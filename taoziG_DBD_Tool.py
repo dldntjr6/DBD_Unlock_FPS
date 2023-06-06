@@ -1,4 +1,3 @@
-# 修改文本文件1.txt中的内容,改为hello world
 import os
 import tkinter
 import tkinter.messagebox
